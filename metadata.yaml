@@ -1,0 +1,32 @@
+_repo: Rough-Hewn_37451
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37451-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Fisher, Dorothy Canfield
+    aliases:
+    - Canfield, Dorothy
+    - Canfield, Dorothea F.
+    - Fisher, Dorothea Frances Canfield
+    - Fisher, Mrs. John Redwood
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '1781'
+    url: http://www.gutenberg.org/2009/agents/1781
+    wikipedia: http://en.wikipedia.org/wiki/Dorothy_Canfield_Fisher
+description: ''
+gutenberg_issued: '2011-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Rough-Hewn
+url: http://www.gutenberg.org/ebooks/37451
